@@ -1,0 +1,5 @@
+{{#user}}
+Name: Gautam Mendon
+Skills: HTML, CSS, Bootstrap, JS, React.js
+Email: gmendon46@gmail.com
+{{/user}}
